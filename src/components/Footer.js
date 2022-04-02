@@ -1,5 +1,5 @@
 function Footer(){
-    return <h1>This is footer</h1>
+    return <h1>This j is footer</h1>
 }
     
 
